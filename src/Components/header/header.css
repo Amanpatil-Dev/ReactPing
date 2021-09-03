@@ -1,0 +1,22 @@
+.el{
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+h2:not(span){
+    font-weight: 200;
+    font-family: 'Libre Franklin', sans-serif;
+    color: hsl(0, 0%, 59%);
+}
+
+span{
+    color: black;
+}
+.header-content{
+    margin-top: 1.7rem;
+}
+
+p{
+    font-weight: 100;
+    color: hsl(0, 0%, 59%);
+}

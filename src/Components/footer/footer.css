@@ -1,0 +1,38 @@
+.fa{
+    font-size: 24px;
+    margin-left: 1rem;
+    color: hsl(223, 87%, 63%);
+    
+}
+
+.fa-facebook-f{
+    border: 1px solid;
+    border-radius: 36px;
+    padding: 7px 12px;
+}
+.fa-twitter{
+    border: 1px solid;
+    border-radius: 36px;
+    padding: 7px 8px;
+}
+.fa-instagram{
+    border: 1px solid;
+    border-radius: 36px;
+    padding: 7px 10px;
+}
+.fa-twitter,.fa-facebook-f,.fa-instagram{
+    transition: all .25s ease-in-out;
+}
+.w-35{
+    width: 35%;
+
+}
+footer div{
+    margin: 1rem auto;
+}
+
+.fa-facebook-f:hover,.fa-instagram:hover,.fa-twitter:hover{
+    color: white;
+    background-color: hsl(223, 87%, 63%);;
+    cursor: pointer;
+}

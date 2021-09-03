@@ -1,0 +1,53 @@
+input{
+    width: 85%;
+    margin: auto;
+    border-radius: 36px;
+    border: 1px solid #dee2e6;
+    
+    padding: 13px;
+}
+input::placeholder{
+    opacity: 50%;
+}
+
+input:focus-visible{
+    outline: none;
+}
+.inputs{
+    text-align: center;
+}
+
+.btn{
+    width: 85%;
+    border-radius: 36px;
+    margin-top: 1rem;
+    padding: .6rem;
+    background-color:  hsl(223, 87%, 63%);
+}
+
+@media(min-width:768px){
+    .inputs{
+        display: flex;
+        position: relative;
+    }
+    input[type=email]{
+        width: 65%;
+    }
+    .btn{
+        width: 30%;
+        margin:0 1rem
+    }
+    .inputs > p{
+        position: absolute;
+        top: 100%;
+        right: 50%;
+
+
+    }
+}
+
+@media(min-width:992px){
+    .container{
+        max-width: 720px;
+    }
+}
