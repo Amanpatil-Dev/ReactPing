@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPing/static/css/main.d21f3f4b.chunk.css",
+    "main.js": "/ReactPing/static/js/main.2b4b44e0.chunk.js",
+    "main.js.map": "/ReactPing/static/js/main.2b4b44e0.chunk.js.map",
+    "runtime-main.js": "/ReactPing/static/js/runtime-main.d272d0ab.js",
+    "runtime-main.js.map": "/ReactPing/static/js/runtime-main.d272d0ab.js.map",
+    "static/js/2.f48c1a47.chunk.js": "/ReactPing/static/js/2.f48c1a47.chunk.js",
+    "static/js/2.f48c1a47.chunk.js.map": "/ReactPing/static/js/2.f48c1a47.chunk.js.map",
+    "index.html": "/ReactPing/index.html",
+    "static/css/main.d21f3f4b.chunk.css.map": "/ReactPing/static/css/main.d21f3f4b.chunk.css.map",
+    "static/js/2.f48c1a47.chunk.js.LICENSE.txt": "/ReactPing/static/js/2.f48c1a47.chunk.js.LICENSE.txt",
+    "static/media/a.f9aaf3db.png": "/ReactPing/static/media/a.f9aaf3db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d272d0ab.js",
+    "static/js/2.f48c1a47.chunk.js",
+    "static/css/main.d21f3f4b.chunk.css",
+    "static/js/main.2b4b44e0.chunk.js"
+  ]
+}
